@@ -2,115 +2,104 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
+  display: Heng Yao
+  given: Heng
+  family: Yao
   alternate: ''  # Example: 王伟
   pronunciation: ''  # Example: Wáng Wěi
-  pronouns: he/him
 postnominals:
   - PhD
-  - MIEEE
 status:
   icon: "☕️"
-role: Senior AI Research Scientist
+role: Algorithm Expert at Ant Group
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+  Heng Yao is an Algorithm Expert at Ant Group, Shanghai, China. His research
+  focuses on recommender systems, computational advertising, and graph neural
+  networks, with recent work on click-through rate (CTR) prediction and
+  numerical feature representation.
+
+  He received his Ph.D. in Computer Science and Technology from Tongji
+  University in 2021, where his doctoral research on protein complex detection
+  in protein-protein interaction networks was advised by Prof. Shuigeng Zhou.
+  Before joining Ant Group, he was a Senior Algorithm Engineer at Huawei.
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Ant Group
+    url: https://www.antgroup.com/
 
 links:
-  - icon: at-symbol
-    url: mailto:alex.johnson@example.com
-    label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
   - icon: brands/github
-    url: https://github.com/example
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
+    url: https://github.com/YH-learning
+    label: GitHub
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
+    url: https://scholar.google.com/citations?user=dD23GiAAAAAJ
+    label: Google Scholar
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0003-1885-6643
+    label: ORCID
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Recommender Systems
+  - Computational Advertising
+  - Click-Through Rate Prediction
+  - Graph Neural Networks
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
+  - degree: PhD in Computer Science and Technology
+    institution: Tongji University
+    start: 2016-09-01
+    end: 2021-03-31
     summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+      Doctoral research on protein complex detection in protein-protein
+      interaction networks, advised by Prof. Shuigeng Zhou. Publications in
+      IEEE/ACM Transactions on Computational Biology and Bioinformatics and
+      the Journal of Bioinformatics and Computational Biology.
+  - degree: B.E. in Computer Science and Technology
+    institution: Tongji University
+    start: 2012-09-01
+    end: 2016-07-01
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: Algorithm Expert
+    org: Ant Group
+    start: 2024-08-01
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
+      Research on recommender systems and computational advertising,
+      including click-through rate prediction, numerical embeddings, and
+      input-conditioned mixture-of-experts for CTR models.
+  - role: Senior Algorithm Engineer
+    org: Huawei
+    start: 2021-05-01
+    end: 2024-08-01
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Worked on algorithms for recommender systems and graph neural networks.
 
 skills:
   - name: Technical Skills
     items:
-      - label: Python
-        level: 5
       - label: Machine Learning
         level: 5
-      - label: Cloud Computing
-        level: 4
-  - name: Research & Communication
-    items:
-      - label: Academic Writing
+      - label: Recommender Systems
         level: 5
-      - label: Conference Presentations
+      - label: Deep Learning
+        level: 5
+      - label: Graph Neural Networks
         level: 4
-      - label: Grant Proposals
+      - label: Python
+        level: 5
+  - name: Research & Engineering
+    items:
+      - label: Algorithm Design
+        level: 5
+      - label: Academic Writing
+        level: 4
+      - label: Large-Scale CTR Modeling
         level: 4
 
 languages:
-  - name: English
+  - name: Chinese (Mandarin)
     level: 5
     label: Native
-  - name: Spanish
+  - name: English
     level: 4
-    label: Fluent
-
-awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
-    icon: hero/trophy
+    label: Professional
