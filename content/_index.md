@@ -34,7 +34,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I am an Algorithm Expert at Ant Group, working on recommender systems
+        I am an Algorithm Expert working on recommender systems
         and computational advertising. My recent research focuses on
         click-through rate (CTR) prediction, including numerical feature
         embeddings and input-conditioned mixture-of-experts for shared CTR

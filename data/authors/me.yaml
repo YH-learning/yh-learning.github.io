@@ -11,16 +11,16 @@ postnominals:
   - PhD
 status:
   icon: "☕️"
-role: Algorithm Expert at Ant Group
+role: Algorithm Expert
 bio: |
-  Heng Yao is an Algorithm Expert at Ant Group, Shanghai, China. His research
+  Heng Yao is an Algorithm Expert based in Shanghai, China. His research
   focuses on recommender systems, computational advertising, and graph neural
   networks, with recent work on click-through rate (CTR) prediction and
   numerical feature representation.
 
   He received his Ph.D. in Computer Science and Technology from Tongji
-  University in 2021, where his doctoral research on protein complex detection
-  in protein-protein interaction networks was advised by Prof. Jihong Guan.
+  University in 2021, where his doctoral research on graph neural networks
+  and bioinformatics applications was advised by Prof. Jihong Guan.
   Before joining Ant Group, he was a Senior Algorithm Engineer at Huawei.
 
 affiliations:
@@ -50,8 +50,8 @@ education:
     start: 2016-09-01
     end: 2021-03-31
     summary: |
-      Doctoral research on protein complex detection in protein-protein
-      interaction networks, advised by Prof. Jihong Guan. Publications in
+      Doctoral research on graph neural networks and bioinformatics
+      applications, advised by Prof. Jihong Guan. Publications in
       IEEE/ACM Transactions on Computational Biology and Bioinformatics and
       the Journal of Bioinformatics and Computational Biology.
   - degree: B.E. in Computer Science and Technology
@@ -103,3 +103,16 @@ languages:
   - name: English
     level: 4
     label: Professional
+
+awards:
+  - title: Dual PhD Scholarship
+    awarder: Tongji University / The Hong Kong Polytechnic University
+    summary: |
+      Awarded during doctoral studies at Tongji University under the
+      Tongji University / The Hong Kong Polytechnic University program.
+  - title: Outstanding Graduate of Tongji University
+    awarder: Tongji University
+    date: "2021-03-31"
+    summary: |
+      Recognized as an outstanding graduate of Tongji University at
+      doctoral commencement.

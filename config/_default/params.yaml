@@ -19,9 +19,9 @@ hugoblox:
     # Schema.org type for structured data
     type: person # person | organization | local_business
     # Short tagline displayed on your site
-    tagline: "Algorithm Expert at Ant Group"
+    tagline: "Algorithm Expert"
     # Site meta description for search engines and social sharing
-    description: "Heng Yao is an Algorithm Expert at Ant Group, Shanghai, China.
+    description: "Heng Yao is an Algorithm Expert based in Shanghai, China.
       His research focuses on recommender systems, computational advertising, and
       graph neural networks. He received his Ph.D. in Computer Science and Technology
       from Tongji University in 2021."
