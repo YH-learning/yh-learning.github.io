@@ -46,7 +46,7 @@ sections:
         in graph neural networks and their applications.
 
         Please feel free to reach out to collaborate at
-        [yaoheng.cs@foxmail.com](mailto:yaoheng.cs@foxmail.com).
+        [**yaoheng.cs at foxmail dot com**](mailto:yaoheng.cs@foxmail.com).
     design:
       columns: '1'
   - block: collection
