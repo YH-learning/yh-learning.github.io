@@ -31,6 +31,14 @@ sections:
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
     content:
+      title: "What's New"
+      subtitle: ''
+      text: |-
+        - **Nov 2026**: Our paper **"PRIME: Mitigating Subgroup Optimization Competition in Shared CTR Top Networks with Plug-in Residual Input-Conditioned Mixture of Experts"** has been accepted to **WSDM 2027** (main conference paper, acceptance rate 15.8%). See the [paper page](/publications/prime/).
+    design:
+      columns: '1'
+  - block: markdown
+    content:
       title: '📚 My Research'
       subtitle: ''
       text: |-
