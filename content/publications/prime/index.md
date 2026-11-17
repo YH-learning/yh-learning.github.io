@@ -22,11 +22,11 @@ publishDate: "2026-08-31T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["paper-conference"]
 
-# Preprints typically have no formal venue; omit `publication` until the work is accepted.
+publication: "WSDM 2027 (main conference, acceptance rate 15.8%)"
 
-peer_reviewed: false
+peer_reviewed: true
 open_access: true
 
 abstract: |
@@ -105,5 +105,6 @@ slides: ""
 > Click the *Cite* button above to import the publication metadata into your
 > reference management software.
 
-Preprint. Code is available at
+Accepted to **WSDM 2027** (main conference paper, acceptance rate 15.8%).
+Code is available at
 [github.com/YH-learning/PRIME](https://github.com/YH-learning/PRIME).
